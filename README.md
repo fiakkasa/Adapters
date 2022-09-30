@@ -1,1 +1,3 @@
 # Adapters
+
+Various convenience adapters!
